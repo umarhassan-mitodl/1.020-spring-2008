@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Civil Engineering"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Ecology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ]
+  ],
+  "legacy_uid": "0ae8d573-5230-fb68-9ac3-d1d48b538325",
+  "instructors": {
+    "content": [
+      "da801f24-c50f-07cb-d05d-77708696f98f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1f6e6928-aa30-d00f-fac1-baf0fe2ce516",
+    "website": "1-020-ecology-ii-engineering-for-sustainability-spring-2008"
+  },
+  "course_title": "Ecology II: Engineering for Sustainability",
+  "course_description": "This course provides a review of physical, chemical, ecological, and economic principles used to examine interactions between humans and the natural environment. Mass balance concepts are applied to ecology, chemical kinetics, hydrology, and transportation; energy balance concepts are applied to building design, ecology, and climate change; and economic and life cycle concepts are applied to resource evaluation and engineering design. Numerical models are used to integrate concepts and to assess environmental impacts of human activities. Problem sets involve development of MATLAB\u00ae models for particular engineering applications. Some experience with computer programming is helpful but not essential.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.020",
+  "course_image_thumbnail": {
+    "content": "ad085694-468a-4a51-3766-e5f896fc4629",
+    "website": "1-020-ecology-ii-engineering-for-sustainability-spring-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "4778ab6b-c26c-4497-9587-61b7c1855100",
+  "site_short_id": "1.020-spring-2008",
+  "site_url_path": "courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008",
+  "title": "Course Metadata"
+}
