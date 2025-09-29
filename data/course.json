@@ -37,6 +37,7 @@
     "website": "1-020-ecology-ii-engineering-for-sustainability-spring-2008"
   },
   "course_title": "Ecology II: Engineering for Sustainability",
+  "hide_download": true,
   "course_description": "This course provides a review of physical, chemical, ecological, and economic principles used to examine interactions between humans and the natural environment. Mass balance concepts are applied to ecology, chemical kinetics, hydrology, and transportation; energy balance concepts are applied to building design, ecology, and climate change; and economic and life cycle concepts are applied to resource evaluation and engineering design. Numerical models are used to integrate concepts and to assess environmental impacts of human activities. Problem sets involve development of MATLAB\u00ae models for particular engineering applications. Some experience with computer programming is helpful but not essential.\n",
   "department_numbers": [
     "1"
@@ -47,6 +48,7 @@
     "content": "ad085694-468a-4a51-3766-e5f896fc4629",
     "website": "1-020-ecology-ii-engineering-for-sustainability-spring-2008"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"
