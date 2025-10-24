@@ -2,8 +2,6 @@
 content_type: page
 description: "This section provides guidelines on using MATLAB\xAE and links to helpful\
   \ resources."
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
